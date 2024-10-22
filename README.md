@@ -18,31 +18,25 @@ Music is an integral part of daily life, and understanding what makes a song suc
 
 🚀 Installation
 
-To get started, you need to install the required dependencies. Make sure you have Python installed, then run the following command:
-
-	pip install -r requirements.txt
-
-
-
 Each notebook is self-contained and can be run individually to explore different aspects of the analysis.
 
-📊 Results and Findings
+## 📊 Results and Findings
 
-🔍 Feature Analysis:
+Feature Analysis:
 
 * The majority of hit songs exhibit high danceability and low speechiness.
 * Over time, there has been a notable increase in danceability, indicating a shift in musical preferences.
 
-😊 Sentiment Analysis:
+Sentiment Analysis:
 
 * Song sentiments have shown a gradual decline from 1958 to 2019.
 * Songs that reach the Billboard Hot 100 often feature neutral or slightly positive sentiments.
 
-🗝️ Keyword Extraction:
+Keyword Extraction:
 
 * Common keywords in song lyrics have changed significantly, reflecting evolving cultural and linguistic norms.
 
-🧠 Predictive Modeling:
+Predictive Modeling:
 
 * A logistic regression model was developed to predict the likelihood of a song’s success. Metrics such as accuracy, precision, recall, and F1-score are documented in the report.
 
@@ -53,5 +47,5 @@ Contributions to this project are welcome! Please create an issue or submit a pu
 📧 Contact
 
 For any questions or collaborations, feel free to reach out:
-
-* Mahdi Raghib - sayedmahdi.raghib@rwth-aachen.de
+* mahdi.raghib@gmail.com or
+* sayedmahdi.raghib@rwth-aachen.de
